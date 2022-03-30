@@ -10,10 +10,10 @@ In addition to the videos, the following study materials are available:
   
 **Study Guides**: Exercises with solutions, including a pre-test for each topic
 
-Study Guide for Part I : Sets, Functions, and Limits ([PDF - 22MB](/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/part-i-sets-functions-and-limits/MITRES_18_006_study_1.pdf))  
+Study Guide for Part I : Sets, Functions, and Limits ({{% resource_link "cba2eb02-73c5-7374-4fdb-de1e02ebe34a" "PDF - 22MB" %}})  
 Study Guide for Part II: Differentiation ([PDF - 29MB](/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/part-ii-differentiation/MITRES_18_006_study_2.pdf))  
-Study Guide for Parts III & IV: The Circular Function/The Definite Integral ([PDF - 23MB](/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/part-iii-the-circular-function/MITRES_18_006_study_3_4.pdf))  
-Study Guide for Parts Parts V, VI, and VII: Transcendental Functions/More Integration Techniques/Infinite Series ([PDF - 35MB](/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/part-v-transcendental-functions/MITRES_18_006_study_5_6_7.pdf))
+Study Guide for Parts III & IV: The Circular Function/The Definite Integral ({{% resource_link "167a3a84-180e-d378-ea3b-9ead436c1dc9" "PDF - 23MB" %}})  
+Study Guide for Parts Parts V, VI, and VII: Transcendental Functions/More Integration Techniques/Infinite Series ({{% resource_link "481c9e6e-a760-6cd1-73c9-cf506196b4e6" "PDF - 35MB" %}})
 
 **Blackboard Photos**: Photographs of every chalkboard used in the videotapes, for lecture preview or review ([PDF - 8MB](/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/MITRES_18_006_blackboard.pdf))  
   
